@@ -1,0 +1,8 @@
+.idea
+
+# Gradle
+.gradle
+local.properties
+
+# Java
+build/
